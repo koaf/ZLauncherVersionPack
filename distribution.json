@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "rss": "https://raw.githubusercontent.com/TeamKun/NumaPacks/news/news.rss",
+  "discord": {
+    "clientId": "784714976329596938",
+    "smallImageText": "沼ランチャー",
+    "smallImageKey": "pack_numa"
+  },
+    "servers": [
+    {
+      "id": "Minecraft-1.12.2",
+      "name": "便利1.12.2 (Minecraft 1.12.2)",
+      "description": "1.12.2 + 便利なModが導入されたおすすめのパックです。",
+      "icon": "https://raw.githubusercontent.com/koaf/ZLauncherVersionPack/deploy/servers/Minecraft-1.12.2/pack.png",
+      "version": "1.0.0",
+      "address": "",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "Minecraft",
+        "largeImageText": "Minecraft",
+        "largeImageKey": "pack_numa"
+      },
+      ]
+    }
