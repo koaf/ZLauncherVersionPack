@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "Minecraft-1.12.2",
-      "name": "バニラ1.12.2 (Minecraft 1.12.2)",
+      "name": "1.12.2＋軽量パック (Minecraft 1.12.2)",
       "description": "1.12.2 + 便利なModが導入されたおすすめのパックです。",
       "icon": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Minecraft-1.12.2/pack.png",
       "version": "1.0.0",
